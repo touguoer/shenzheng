@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public void get(){
         int i=20;
+        int j=30;
     }
 }
